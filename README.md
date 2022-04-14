@@ -57,7 +57,7 @@ See the [open issues](https://github.com/NECjAR/ARCH/issues) for a list of propo
 [issues-shield]: https://img.shields.io/github/issues/NECjAR/ARCH.svg?style=for-the-badge
 [issues-url]: https://github.com/NECjAR/ARCH/issues
 [license-shield]: https://img.shields.io/github/license/NECjAR/ARCH.svg?style=for-the-badge
-[license-url]: https://github.com/NECjAR/ECHO/main/LICENSE.txt
+[license-url]: https://github.com/NECjAR/ECHO/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
 [necjar]: https://necjar.com
