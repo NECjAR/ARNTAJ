@@ -16,7 +16,7 @@
 # ARCH
 > Retro First-person shooter with maximum fun and infinity story developed and published by NECjAR.
 
-See www.necjar.com for details.
+See www.necjar.com/arch for details.
 
 <p align="center">
   <a href="https://necjar.com/arch">
