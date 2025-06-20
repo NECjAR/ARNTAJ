@@ -13,27 +13,27 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# ARCH
-> Retro First-person shooter with maximum fun and infinity story developed and published by NECjAR.
+# ARNTAJ
+> Evil Sci-Fi by NECjAR.
 
-See www.necjar.com/arch for details.
+See www.necjar.com/arntaj for details.
 
 <p align="center">
-  <a href="https://necjar.com/arch">
-    <img src="https://necjar.com/j/materials/icons/icon-arch.jpg" alt="Arch" width="auto" height="auto" />
+  <a href="https://necjar.com/ARNTAJ">
+    <img src="https://necjar.com/j/materials/icons/icon-arntaj.jpg" alt="ARNTAJ" width="auto" height="auto" />
   </a>
 </p>
 
-## Contributing
+## Characters
 
-This repository serves as a place for bug reports, feature requests, and general discussion.
+Arntaj (Арнтадж).
 
-_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Echo)._
+_For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com/Arntaj)._
 
 ## Release History
 
 * 2021.8.31
-    * ADD: Arch.exe
+    * ADD: ARNTAJ.exe
 
 ## Meta
 
@@ -44,22 +44,22 @@ The man behind the [NECjAR](https://necjar.com).
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/NECjAR/ARCH/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NECjAR/ARNTAJ/issues) for a list of proposed features (and known issues).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/ARCH.svg?style=for-the-badge
-[contributors-url]: https://github.com/NECjAR/ARCH/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NECjAR/ARCH.svg?style=for-the-badge
-[forks-url]: https://github.com/NECjAR/ARCH/network/members
-[stars-shield]: https://img.shields.io/github/stars/NECjAR/ARCH.svg?style=for-the-badge
-[stars-url]: https://github.com/NECjAR/ARCH/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NECjAR/ARCH.svg?style=for-the-badge
-[issues-url]: https://github.com/NECjAR/ARCH/issues
-[license-shield]: https://img.shields.io/github/license/NECjAR/ARCH.svg?style=for-the-badge
-[license-url]: https://github.com/NECjAR/ARCH/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/ARNTAJ.svg?style=for-the-badge
+[contributors-url]: https://github.com/NECjAR/ARNTAJ/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NECjAR/ARNTAJ.svg?style=for-the-badge
+[forks-url]: https://github.com/NECjAR/ARNTAJ/network/members
+[stars-shield]: https://img.shields.io/github/stars/NECjAR/ARNTAJ.svg?style=for-the-badge
+[stars-url]: https://github.com/NECjAR/ARNTAJ/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NECjAR/ARNTAJ.svg?style=for-the-badge
+[issues-url]: https://github.com/NECjAR/ARNTAJ/issues
+[license-shield]: https://img.shields.io/github/license/NECjAR/ARNTAJ.svg?style=for-the-badge
+[license-url]: https://github.com/NECjAR/ARNTAJ/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
 [necjar]: https://necjar.com
-[wiki]: https://wiki.necjar.com/Arch
+[wiki]: https://wiki.necjar.com/ARNTAJ
 
